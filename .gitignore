@@ -1,0 +1,5 @@
+logs/
+.docker
+.idea
+node_modules
+*.iml
