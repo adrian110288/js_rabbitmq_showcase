@@ -12,7 +12,7 @@
   "dependencies": {
     "amqp": "^0.2.7",
     "express": "^4.17.1",
-    "fs-extra": "^9.0.0",
+    "fs-extra": "^9.0.1",
     "q": "^1.5.1"
   }
 }
